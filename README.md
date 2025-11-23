@@ -18,7 +18,7 @@ foi aprender desenvolver vocês pode aproveito e gratuito, pela Rocketseat para 
 <br>
 
 <p align="center">
-  <img alt="projeto de MatheusLinks" src=".github/MathuesLinks.jpg" width="100%">
+  <img alt="projeto de MatheusLinks" src=".github/mathueslinks.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
